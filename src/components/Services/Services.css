@@ -1,0 +1,12 @@
+.service-heading {
+  margin-top: 20px;
+  text-transform: capitalize;
+  color: orangered;
+  margin-bottom: 20px;
+}
+.service-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  margin-left: 70px;
+  margin-top: 30px;
+}

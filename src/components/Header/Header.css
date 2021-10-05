@@ -1,0 +1,23 @@
+.navbar {
+  background-color: orange;
+}
+#Nav_menu {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  margin: 0 auto;
+}
+
+.Nav_link:link {
+  color: black;
+  font-size: 1.6rem;
+  line-height: 1.6rem;
+  text-decoration: none;
+  margin-left: 130px;
+}
+.Nav_link:visited {
+  color: black;
+}
+.Nav_link:hover {
+  color: red;
+}

@@ -1,0 +1,19 @@
+.footer {
+  background-color: black;
+  color: white;
+  padding-bottom: 10px;
+  padding-top: 30px;
+}
+.footer-section {
+  display: flex;
+}
+.footer-left {
+  width: 33%;
+}
+
+.footer-middle {
+  width: 33%;
+}
+.footer-right {
+  width: 33%;
+}

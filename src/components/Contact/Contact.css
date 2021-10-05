@@ -1,0 +1,13 @@
+.contact-container {
+  width: 50%;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+.contact-form {
+}
+
+h1 {
+  margin-top: 20px;
+  text-transform: capitalize;
+  color: orangered;
+}
